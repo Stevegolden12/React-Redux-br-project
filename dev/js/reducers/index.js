@@ -5,3 +5,5 @@ const allReducers = combineReducers({
   /* MUST use users to identify in store*/
   users: UserReducer
 });
+
+export default allReducers;
