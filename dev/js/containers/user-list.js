@@ -20,5 +20,5 @@ function mapStateToProps(state){
 		}
 }
 
-export default UserList;
+export default connect(mapStateToProps)(UserList);
 
