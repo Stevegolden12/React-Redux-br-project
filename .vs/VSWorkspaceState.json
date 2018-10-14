@@ -3,7 +3,9 @@
     "",
     "\\dev",
     "\\dev\\js",
+    "\\dev\\js\\components",
     "\\dev\\js\\reducers",
+    "\\dev\\scss",
     "\\src"
   ],
   "SelectedNode": "\\dev\\js\\index.js",
