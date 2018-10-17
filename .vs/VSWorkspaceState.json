@@ -6,8 +6,9 @@
     "\\dev\\js\\actions",
     "\\dev\\js\\components",
     "\\dev\\js\\containers",
+    "\\dev\\js\\reducers",
     "\\src"
   ],
-  "SelectedNode": "\\dev\\js\\containers\\user-list.js",
+  "SelectedNode": "\\dev\\js\\reducers\\index.js",
   "PreviewInSolutionExplorer": false
 }
