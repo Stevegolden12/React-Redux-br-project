@@ -3,11 +3,11 @@
     "",
     "\\dev",
     "\\dev\\js",
+    "\\dev\\js\\actions",
     "\\dev\\js\\components",
-    "\\dev\\js\\reducers",
-    "\\dev\\scss",
+    "\\dev\\js\\containers",
     "\\src"
   ],
-  "SelectedNode": "\\dev\\js\\index.js",
+  "SelectedNode": "\\dev\\js\\containers\\user-list.js",
   "PreviewInSolutionExplorer": false
 }
