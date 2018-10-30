@@ -3,6 +3,7 @@
     "",
     "\\dev",
     "\\dev\\js",
+    "\\dev\\js\\actions",
     "\\dev\\js\\reducers",
     "\\src"
   ],
