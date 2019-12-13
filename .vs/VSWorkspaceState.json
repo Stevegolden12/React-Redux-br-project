@@ -4,9 +4,10 @@
     "\\dev",
     "\\dev\\js",
     "\\dev\\js\\actions",
+    "\\dev\\js\\components",
     "\\dev\\js\\reducers",
     "\\src"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\dev\\js\\components\\App.js",
   "PreviewInSolutionExplorer": false
 }
