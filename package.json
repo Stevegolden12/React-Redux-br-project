@@ -21,7 +21,7 @@
     "lodash": "^4.17.15",
     "node-libs-browser": "^2.2.1",
     "node-sass": "^4.13.0",
-    "npm": "^6.13.4",
+    "npm": "^6.14.6",
     "npm-check-updates": "^4.0.1",
     "react": "^16.12.0",
     "react-addons-test-utils": "^15.6.2",
