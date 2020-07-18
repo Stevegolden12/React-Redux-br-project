@@ -18,7 +18,7 @@
     "cross-env": "^6.0.3",
     "css-loader": "^3.3.2",
     "expect": "^24.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-libs-browser": "^2.2.1",
     "node-sass": "^4.13.0",
     "npm": "^6.13.4",
