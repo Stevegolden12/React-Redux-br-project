@@ -20,7 +20,7 @@
     "expect": "^24.9.0",
     "lodash": "^4.17.15",
     "node-libs-browser": "^2.2.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.13.4",
     "npm-check-updates": "^4.0.1",
     "react": "^16.12.0",
